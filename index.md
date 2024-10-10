@@ -68,3 +68,6 @@ _10/2019 - 02/2022, Lviv, Ukraine_
 ## Certifications
 - **English level:** Upper-intermediate
 
+<div id="sfcwkjaebwj4p64n4e9jenqst9844148mxc"></div>
+<script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=wkjaebwj4p64n4e9jenqst9844148mxc&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=wkjaebwj4p64n4e9jenqst9844148mxc" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
