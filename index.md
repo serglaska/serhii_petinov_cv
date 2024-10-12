@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-<div id="cv-container">
+<div id="cv-container" />
 
 # Serhii Petinov
 **Senior Front-end Engineer | React & JavaScript Expert | 5+ years of experience**
@@ -83,7 +83,6 @@ _10/2019 - 02/2022, Lviv, Ukraine_
 ## Certifications
 - **English level:** Upper-intermediate
 
-</div>
 
 <div id="sfcpdmf836fpjy64tbw8ks11kpd3dgkyx8l"></div>
 <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pdmf836fpjy64tbw8ks11kpd3dgkyx8l&down=async" async></script>
