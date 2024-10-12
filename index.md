@@ -1,54 +1,66 @@
 <link rel="stylesheet" href="styles.css">
 
+<div id="cv-container">
+
 # Serhii Petinov
-**Front End Engineer | React Developer | JavaScript Promoter**
+**Senior Front-end Engineer | React & JavaScript Expert | 5+ years of experience**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 **Email:** [onlyjs@protonmail.com](mailto:onlyjs@protonmail.com)  
 **Phone:** +380996683145  
 **Location:** Bucharest, Romania  
-**LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-sunseeker/)
+**LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-front-end-engineer/)
 
 ## Professional Summary
-I've spent the last four years diving into front-end development 🌊💻, creating single-page applications that are as robust as they are smooth 🛠️✨. Tackling complex problems is like a puzzle for me 🧠🧩, and I love finding smart solutions that make things work better 🔍👌.
 
-Debugging code? That's my bread and butter 🥖🔧. I've got a keen eye for detail 👀, which helps me spot and fix issues fast ⚡, keeping our projects on track. I’m all about teamwork too 🤝. Clear communication and a friendly chat are just as important to me as any line of code 📢💬.
+I am a Front-end Developer with over 5 years of experience building high-performance single-page applications. I have a passion for creating robust and user-friendly software solutions, with a keen eye for detail and efficiency.
 
-Thinking on my feet and coming up with creative ideas is something I really enjoy 🎨💭. I bring a can-do attitude to everything I do, whether it’s being responsible 🌟, sparking a laugh to lighten the day 😂, or leading a team through a tough spot 💪🔥. I'm also the kind of person who likes to get things moving, whether that's organizing a team event 📆🎉 or streamlining a process ⚙️📈.
+**Key Skills and Technologies:**
+Proficient in JavaScript, TypeScript, React and Redux.
+Experienced in debugging complex issues and optimizing front-end performance.
+Strong focus on teamwork, effective communication, and agile methodologies.
 
-Above all, I love learning new things—it's a big world out there, and there's always more to discover, especially in tech 🌍🔭. I'm here to grow 🌱, help my team shine 🌟, and make some great software along the way 🚀💻.
+**Achievements:**
+Successfully led a project team to enhance product functionality.
+Improved performance of a major application feature by reducing load time.
+Actively contributed to a company-wide refactoring initiative that standardized front-end code quality.
+
+**Career Goals:**
+ I am committed to continuous learning, expanding my knowledge in modern front-end frameworks, and collaborating within diverse teams to deliver impactful user experiences. My goal is to further grow as a developer, take on technical leadership roles, and contribute to innovative projects.
+
 
 ## Work History
 
 ### Decision Maker / Front-end Engineer / React Developer, Altamira  
 _08/2023 - Current, Ukraine_
 - **Technologies:** Next.js, Redux Toolkit, Sass, TypeScript, Tailwind, Ag-Grid, GraphQL, Apollo Client, Ag-Charts, Ramda, Nginx, MySQL
-- Designed and implemented user-friendly interfaces for CRM systems.
+- Design and implement user-friendly interfaces for CRM systems.
 - Collaborate closely with a cross-functional team to design, develop, and refine user-centric solutions.
-- Developed responsive web pages and integrated real-time data visualization tools.
+- Develop responsive web pages and integrate real-time data visualization tools.
 - Contribute to the entire application lifecycle, focusing on coding, debugging, and collaboration.
 
 ### Front-end Engineer / React Developer, Tacans Labs  
 _03/2023 - 08/2023, Kyiv City, Ukraine_
 - **Technologies:** React.js, MobX, Sass, TypeScript, Chart.js
 - Worked on developing functionalities for crypto stock trading platforms.
-- Optimize website performance and loading speeds.
-- Develop and maintain the frontend architecture of the website using React.
-- Collaborate with other developers to ensure the application is scalable and performant.
+- Optimized website performance and loading speeds.
+- Developed and maintained the front-end architecture of the website using React and Mobx.
+- Collaborated with other developers to ensure the application is scalable and performant.
 
 ### Front-end Engineer, IT NerdySoft  
 _03/2022 - 02/2023, Lviv, Ukraine_
 - **Technologies:** Next.js, React Query, Ant Design, Sass, TypeScript
-- Ensure cross-browser compatibility and web accessibility standards
-- Troubleshoot and debug web applications.
-- Focused on developing fin-tech products and SPAs, enhancing UI/UX design.
+- Assured cross-browser compatibility and adhered to web accessibility standards.
+- Troubleshot and debugged web applications.
+- Focused on developing fintech products and SPA, enhancing UI/UX design.
 
 ### Front-end Engineer, Exsportia LTD  
 _10/2019 - 02/2022, Lviv, Ukraine_
 - **Technologies:** React.js, Redux Saga, Node.js, Firebase, AWS Amplify, Styled-components, RESTful APIs
-- Write clean, maintainable, and scalable code following industry best practices.
+- Wrote clean, maintainable, and scalable code following industry best practices.
 - Managed client-side development, including CI/CD processes and deployment.
+
 
 ## Skills
 - **Programming Languages & Frameworks:** JavaScript, TypeScript, Node.js, Next.js
@@ -70,6 +82,8 @@ _10/2019 - 02/2022, Lviv, Ukraine_
 
 ## Certifications
 - **English level:** Upper-intermediate
+
+</div>
 
 <div id="sfcpdmf836fpjy64tbw8ks11kpd3dgkyx8l"></div>
 <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pdmf836fpjy64tbw8ks11kpd3dgkyx8l&down=async" async></script>
