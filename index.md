@@ -14,7 +14,7 @@
 **Location:** Bucharest, Romania  
 **LinkedIn:** [Serhii](https://www.linkedin.com/in/serhii-front-end-engineer/)
 
-## Professional Summary
+### Professional Summary
 
 I am a Front-end Engineer with over 5 years of experience building high-performance single-page applications, use React library. I have a passion for creating robust and user-friendly software solutions, with a keen eye for detail and efficiency.
 
@@ -31,9 +31,9 @@ Actively contributed to a company-wide refactoring initiative that standardized 
 **Career Goals:**
 I am committed to continuous learning, expanding my knowledge in modern front-end frameworks, and collaborating within diverse teams to deliver impactful user experiences. My goal is to further grow as a developer, take on technical leadership roles, and contribute to innovative projects.
 
-## Work History
+### Work History
 
-### Decision Maker / Front-end Engineer / React Developer
+#### Decision Maker / Front-end Engineer / React Developer
 
 [Altamira](https://www.altamira.ai/) | <span style="color:gray">Aug 2023 - Current, Ukraine</span>
 
@@ -43,7 +43,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 - Develop responsive web pages and integrate real-time data visualization tools.
 - Contribute to the entire application lifecycle, focusing on coding, debugging, and collaboration.
 
-### Front-end Engineer / React Developer
+#### Front-end Engineer / React Developer
 
 [Tacans Labs](https://tacans.com/) | <span style="color:gray">Apr 2023 - Aug 2023, Ukraine</span>
 
@@ -53,7 +53,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 - Developed and maintained the front-end architecture of the website using React and Mobx.
 - Collaborated with other developers to ensure the application is scalable and performant.
 
-### Front-end Engineer, IT NerdySoft
+#### Front-end Engineer
 
 [NerdySoft](https://nerdysoft.com/) | <span style="color:gray">Apr 2022 - Feb 2023, Ukraine</span>
 
@@ -62,7 +62,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 - Troubleshot and debugged web applications.
 - Focused on developing fintech products and SPA, enhancing UI/UX design.
 
-### Front-end Engineer, Exsportia LTD
+#### Front-end Engineer
 
 [Exsportia](https://www.exsportia.com/) | <span style="color:gray">Oct 2019 - Feb 2022, Ukraine</span>
 
@@ -70,7 +70,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 - Wrote clean, maintainable, and scalable code following industry best practices.
 - Managed client-side development, including CI/CD processes and deployment.
 
-## Skills
+### Skills
 
 - **Programming Languages & Frameworks:** JavaScript, TypeScript, Node.js, Next.js
 - **Libraries & Tools:** React.js, Redux/Saga/Toolkit, Ant Design, Chart.js, AG Grid, Tailwind, Sass, Docker
@@ -80,17 +80,17 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 - **Code:** GitHub, Bitbucket, GitLab, VS Code
 - **Other:** Linux, Network
 
-## Education
+### Education
 
 - **Academy STEP, Lviv**  
-  _03/2019 - 08/2019_  
+  <span style="color:gray">Apr 2019 - Aug 2019</span>
   C++ Development
 
 - **Yuriy Kondratyuk Poltava Polytechnic National University**  
-  _01/2008 - 12/2012_  
+  <span style="color:gray">Jun 2008 - Dec 2012</span>
   Engineer Designer of Heat, Gas Supply, Ventilation
 
-## Certifications
+### Certifications
 
 - **English level:** Upper-intermediate
 
