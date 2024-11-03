@@ -5,7 +5,7 @@
 
 # Serhii Petinov
 
-**Senior Front-end Engineer | React & JavaScript Expert | 5+ years of experience**
+**Senior Front-end Engineer / React & JavaScript Expert / 5+ years of experience**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
@@ -35,7 +35,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 
 #### Decision Maker / Front-end Engineer / React Developer
 
-[Altamira](https://www.altamira.ai/) | <span style="color:gray">Aug 2023 - Current, Ukraine</span>
+[Altamira](https://www.altamira.ai/) / <span style="color:gray">Aug 2023 - Current, Ukraine</span>
 
 - **Technologies:** Next.js, Redux Toolkit, Sass, TypeScript, Tailwind, Ag-Grid, GraphQL, Apollo Client, Ag-Charts, Ramda, Nginx, MySQL
 - Design and implement user-friendly interfaces for CRM systems.
@@ -45,7 +45,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 
 #### Front-end Engineer / React Developer
 
-[Tacans Labs](https://tacans.com/) | <span style="color:gray">Apr 2023 - Aug 2023, Ukraine</span>
+[Tacans Labs](https://tacans.com/) / <span style="color:gray">Apr 2023 - Aug 2023, Ukraine</span>
 
 - **Technologies:** React.js, MobX, Sass, TypeScript, Chart.js
 - Worked on developing functionalities for crypto stock trading platforms.
@@ -55,7 +55,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 
 #### Front-end Engineer
 
-[NerdySoft](https://nerdysoft.com/) | <span style="color:gray">Apr 2022 - Feb 2023, Ukraine</span>
+[NerdySoft](https://nerdysoft.com/) / <span style="color:gray">Apr 2022 - Feb 2023, Ukraine</span>
 
 - **Technologies:** Next.js, React Query, Ant Design, Sass, TypeScript
 - Assured cross-browser compatibility and adhered to web accessibility standards.
@@ -64,7 +64,7 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 
 #### Front-end Engineer
 
-[Exsportia](https://www.exsportia.com/) | <span style="color:gray">Oct 2019 - Feb 2022, Ukraine</span>
+[Exsportia](https://www.exsportia.com/) / <span style="color:gray">Oct 2019 - Feb 2022, Ukraine</span>
 
 - **Technologies:** React.js, Redux Saga, Node.js, Firebase, AWS Amplify, Styled-components, RESTful APIs
 - Wrote clean, maintainable, and scalable code following industry best practices.
