@@ -38,37 +38,47 @@ I am committed to continuous learning, expanding my knowledge in modern front-en
 [Altamira](https://www.altamira.ai/) / <span style="color:gray">Aug 2023 - Current, Ukraine</span>
 
 - **Technologies:** Next.js, Redux Toolkit, Sass, TypeScript, Tailwind, Ag-Grid, GraphQL, Apollo Client, Ag-Charts, Ramda, Nginx, MySQL
-- Design and implement user-friendly interfaces for CRM systems.
-- Collaborate closely with a cross-functional team to design, develop, and refine user-centric solutions.
-- Develop responsive web pages and integrate real-time data visualization tools.
-- Contribute to the entire application lifecycle, focusing on coding, debugging, and collaboration.
+- Refactored over 75% of legacy code, improving project stability, scalability, and reducing technical debt for easier maintenance and future expansion.
+- Removed 50% of outdated code, simplifying the codebase, reducing error risks, and accelerating development.
+- Upgraded React from version 16 to 18, enabling new functionality, optimizing rendering, and reducing load times with improved state management.
+- Migrated SPA from Webpack to Vite, cutting build time by 60% and enhancing developer efficiency through instant server startup and simplified configuration.
+- Designed reusable components with Ant Design and Tailwind, reducing feature development time by 40% and ensuring consistent styling.
+- Implemented a Mobile First approach, improving user experience and ensuring full adaptability for all devices.
+- Integrated Ag-Grid for data management, automating workflows and unlocking advanced features like grouping and filtering, which improved user satisfaction and business efficiency.
+- Introduced a new Git Flow, optimizing branch management and reducing merge conflicts to streamline development processes.
+- Communicated with various technical specialists to align and synchronize actions, including backend developers, information security specialists, DevOps engineers, product managers, client-side management representatives, designers, and other members of the international distributed team.
+- Mentored and coached four team members; all successfully completed their trial period and became independent in their roles without extra support.
 
 #### Front-end Engineer / React Developer
 
 [Tacans Labs](https://tacans.com/) / <span style="color:gray">Apr 2023 - Aug 2023, Ukraine</span>
 
 - **Technologies:** React.js, MobX, Sass, TypeScript, Chart.js
-- Worked on developing functionalities for crypto stock trading platforms.
-- Optimized website performance and loading speeds.
-- Developed and maintained the front-end architecture of the website using React and Mobx.
-- Collaborated with other developers to ensure the application is scalable and performant.
+- Facilitated the process of selecting libraries for data visualization, conducting in-depth research and comparing different solutions. Implemented interactive graphs and charts that significantly improved the display of data, which contributed to the user experience and provided visibility of key metrics. This allowed users to make data-driven decisions faster.
+- Optimized application performance, especially the Largest Contentful Paint (LCP) score, which resulted in a more than 25% increase in loading speed. This improvement increased the overall performance of the application, which not only improved the user experience but also ensured that the business requirements for high.
 
 #### Front-end Engineer
 
 [NerdySoft](https://nerdysoft.com/) / <span style="color:gray">Apr 2022 - Feb 2023, Ukraine</span>
 
 - **Technologies:** Next.js, React Query, Ant Design, Sass, TypeScript
-- Assured cross-browser compatibility and adhered to web accessibility standards.
-- Troubleshot and debugged web applications.
-- Focused on developing fintech products and SPA, enhancing UI/UX design.
+- I developed a library of reusable components that ensured the scalability of the project and reduced the time to develop new functionality through standardized and consistent interface elements. This allowed us to increase team productivity and maintain a consistent style of the application.
+- Initiated a collaborative code review process that improved code quality, helped identify bugs early, and increased the level of collective ownership. This approach also facilitated knowledge sharing among developers, which had a positive impact on team development.
+- I quickly mastered TypeScript, demonstrating my ability to learn new technologies and adapt to a dynamic environment quickly. This confirms my willingness to effectively learn innovative tools to solve complex problems.
+- Implemented React Query with the team, which streamlined state management for asynchronous queries. This reduced code duplication, simplified server data processing, and provided more reliable and scalable APIs, which had a positive impact on application performance.
+- Organized team building and internal team events that strengthened the company culture, improved teamwork, and created an atmosphere of trust. This helped to increase team motivation and, as a result, overall project performance.
 
 #### Front-end Engineer
 
 [Exsportia](https://www.exsportia.com/) / <span style="color:gray">Oct 2019 - Feb 2022, Ukraine</span>
 
 - **Technologies:** React.js, Redux Saga, Node.js, Firebase, AWS Amplify, Styled-components, RESTful APIs
-- Wrote clean, maintainable, and scalable code following industry best practices.
-- Managed client-side development, including CI/CD processes and deployment.
+- Developed a full-fledged RTL design and functionality of the application, which significantly increased the level of accessibility and usability for RTL users, helping to increase their number.
+- Streamlined CI/CD by adding pre/post-commit hooks, reducing errors and speeding up development, automated code validation and accelerated the development cycle, minimizing potential errors in the early stages.
+- Temporarily led the QA team until a permanent QA lead arrived, ensuring team cohesion and increasing the department's productivity by implementing clear testing processes and standards.
+- Implemented Semantic Versioning (SemVer) on the project, which improved version management, simplified dependency updates, and ensured better compatibility between different versions of the product.
+- Optimized the interface with CSS animations, creating smooth and effective transitions that significantly improved the user experience and overall aesthetic appeal of the application.
+- Integrated Ramda.js to simplify data manipulation, which allowed to implement functional approaches, make the code cleaner, more declarative, and maintainable.
 
 ### Skills
 
